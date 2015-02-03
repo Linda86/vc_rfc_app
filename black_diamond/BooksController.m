@@ -122,7 +122,7 @@ minimumInteritemSpacingForSectionAtIndex:(NSInteger)section{
 //    myCell.cover_image.image = image;
 
 //    return myCell;
-    
+    //
     //Add cell with label and color for now
     UICollectionViewCell* cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"cover" forIndexPath:indexPath];
     
