@@ -7,37 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		77671C9D1A80D8D10023F7C9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77671C9C1A80D8D10023F7C9 /* Images.xcassets */; };
-		77671CA21A80D8EC0023F7C9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 77671C9E1A80D8EC0023F7C9 /* LaunchScreen.xib */; };
-		77671CA31A80D8EC0023F7C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77671CA01A80D8EC0023F7C9 /* Main.storyboard */; };
-		77671CA61A80D8F80023F7C9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 77671CA51A80D8F80023F7C9 /* AppDelegate.m */; };
-		77671CA81A80D9000023F7C9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77671CA71A80D9000023F7C9 /* main.m */; };
-		77671CAB1A80D90F0023F7C9 /* BookCover.m in Sources */ = {isa = PBXBuildFile; fileRef = 77671CAA1A80D90F0023F7C9 /* BookCover.m */; };
-		77671CAE1A80D91D0023F7C9 /* BooksController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77671CAD1A80D91D0023F7C9 /* BooksController.m */; };
-		77671CB11A80D92A0023F7C9 /* PageDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77671CB01A80D92A0023F7C9 /* PageDataViewController.m */; };
-		77671CB41A80D9330023F7C9 /* PageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77671CB31A80D9330023F7C9 /* PageViewController.m */; };
+		774BE2E11A80DEEC005D73E5 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 774BE2E01A80DEEC005D73E5 /* Info.plist */; };
+		774BE2E31A80DEF4005D73E5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 774BE2E21A80DEF4005D73E5 /* Images.xcassets */; };
+		774BE2E51A80DF02005D73E5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 774BE2E41A80DF02005D73E5 /* main.m */; };
+		774BE2E81A80DF0B005D73E5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 774BE2E71A80DF0B005D73E5 /* AppDelegate.m */; };
+		774BE2ED1A80DF26005D73E5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 774BE2E91A80DF26005D73E5 /* LaunchScreen.xib */; };
+		774BE2EE1A80DF26005D73E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 774BE2EB1A80DF26005D73E5 /* Main.storyboard */; };
+		774BE2F11A80DF30005D73E5 /* BookCover.m in Sources */ = {isa = PBXBuildFile; fileRef = 774BE2F01A80DF30005D73E5 /* BookCover.m */; };
+		774BE2F41A80DF3A005D73E5 /* BooksController.m in Sources */ = {isa = PBXBuildFile; fileRef = 774BE2F31A80DF3A005D73E5 /* BooksController.m */; };
+		774BE2F71A80DF4B005D73E5 /* PageDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 774BE2F61A80DF4B005D73E5 /* PageDataViewController.m */; };
+		774BE2FA1A80DF59005D73E5 /* PageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 774BE2F91A80DF59005D73E5 /* PageViewController.m */; };
 		77671CB61A80D9410023F7C9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 77671CB51A80D9410023F7C9 /* Default-568h@2x.png */; };
-		77671CB81A80D9560023F7C9 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 77671CB71A80D9560023F7C9 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		474305FC19F8D8C9004133EF /* Black Diamond.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Black Diamond.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		77671C9C1A80D8D10023F7C9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Sample/Images.xcassets; sourceTree = SOURCE_ROOT; };
-		77671C9F1A80D8EC0023F7C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Sample/Base.lproj/LaunchScreen.xib; sourceTree = SOURCE_ROOT; };
-		77671CA11A80D8EC0023F7C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Sample/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
-		77671CA41A80D8F80023F7C9 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Sample/AppDelegate.h; sourceTree = SOURCE_ROOT; };
-		77671CA51A80D8F80023F7C9 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Sample/AppDelegate.m; sourceTree = SOURCE_ROOT; };
-		77671CA71A80D9000023F7C9 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Sample/main.m; sourceTree = SOURCE_ROOT; };
-		77671CA91A80D90F0023F7C9 /* BookCover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BookCover.h; path = Sample/BookCover.h; sourceTree = SOURCE_ROOT; };
-		77671CAA1A80D90F0023F7C9 /* BookCover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BookCover.m; path = Sample/BookCover.m; sourceTree = SOURCE_ROOT; };
-		77671CAC1A80D91D0023F7C9 /* BooksController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BooksController.h; path = Sample/BooksController.h; sourceTree = SOURCE_ROOT; };
-		77671CAD1A80D91D0023F7C9 /* BooksController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BooksController.m; path = Sample/BooksController.m; sourceTree = SOURCE_ROOT; };
-		77671CAF1A80D92A0023F7C9 /* PageDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PageDataViewController.h; path = Sample/PageDataViewController.h; sourceTree = SOURCE_ROOT; };
-		77671CB01A80D92A0023F7C9 /* PageDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PageDataViewController.m; path = Sample/PageDataViewController.m; sourceTree = SOURCE_ROOT; };
-		77671CB21A80D9330023F7C9 /* PageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PageViewController.h; path = Sample/PageViewController.h; sourceTree = SOURCE_ROOT; };
-		77671CB31A80D9330023F7C9 /* PageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PageViewController.m; path = Sample/PageViewController.m; sourceTree = SOURCE_ROOT; };
+		774BE2E01A80DEEC005D73E5 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = black_diamond/Info.plist; sourceTree = SOURCE_ROOT; };
+		774BE2E21A80DEF4005D73E5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = black_diamond/Images.xcassets; sourceTree = SOURCE_ROOT; };
+		774BE2E41A80DF02005D73E5 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = black_diamond/main.m; sourceTree = SOURCE_ROOT; };
+		774BE2E61A80DF0B005D73E5 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = black_diamond/AppDelegate.h; sourceTree = SOURCE_ROOT; };
+		774BE2E71A80DF0B005D73E5 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = black_diamond/AppDelegate.m; sourceTree = SOURCE_ROOT; };
+		774BE2EA1A80DF26005D73E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = black_diamond/Base.lproj/LaunchScreen.xib; sourceTree = SOURCE_ROOT; };
+		774BE2EC1A80DF26005D73E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = black_diamond/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
+		774BE2EF1A80DF30005D73E5 /* BookCover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BookCover.h; path = black_diamond/BookCover.h; sourceTree = SOURCE_ROOT; };
+		774BE2F01A80DF30005D73E5 /* BookCover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BookCover.m; path = black_diamond/BookCover.m; sourceTree = SOURCE_ROOT; };
+		774BE2F21A80DF3A005D73E5 /* BooksController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BooksController.h; path = black_diamond/BooksController.h; sourceTree = SOURCE_ROOT; };
+		774BE2F31A80DF3A005D73E5 /* BooksController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BooksController.m; path = black_diamond/BooksController.m; sourceTree = SOURCE_ROOT; };
+		774BE2F51A80DF4B005D73E5 /* PageDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PageDataViewController.h; path = black_diamond/PageDataViewController.h; sourceTree = SOURCE_ROOT; };
+		774BE2F61A80DF4B005D73E5 /* PageDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PageDataViewController.m; path = black_diamond/PageDataViewController.m; sourceTree = SOURCE_ROOT; };
+		774BE2F81A80DF59005D73E5 /* PageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PageViewController.h; path = black_diamond/PageViewController.h; sourceTree = SOURCE_ROOT; };
+		774BE2F91A80DF59005D73E5 /* PageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PageViewController.m; path = black_diamond/PageViewController.m; sourceTree = SOURCE_ROOT; };
 		77671CB51A80D9410023F7C9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		77671CB71A80D9560023F7C9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Sample/Info.plist; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,9 +71,9 @@
 		77671C891A80D6F10023F7C9 /* Main */ = {
 			isa = PBXGroup;
 			children = (
-				77671CA71A80D9000023F7C9 /* main.m */,
-				77671CA41A80D8F80023F7C9 /* AppDelegate.h */,
-				77671CA51A80D8F80023F7C9 /* AppDelegate.m */,
+				774BE2E61A80DF0B005D73E5 /* AppDelegate.h */,
+				774BE2E71A80DF0B005D73E5 /* AppDelegate.m */,
+				774BE2E41A80DF02005D73E5 /* main.m */,
 			);
 			name = Main;
 			sourceTree = "<group>";
@@ -81,8 +81,8 @@
 		77DE5D391A7A7E480058559A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				77671CB71A80D9560023F7C9 /* Info.plist */,
-				77671C9C1A80D8D10023F7C9 /* Images.xcassets */,
+				774BE2E21A80DEF4005D73E5 /* Images.xcassets */,
+				774BE2E01A80DEEC005D73E5 /* Info.plist */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -118,8 +118,8 @@
 		77DE5D3D1A7A862D0058559A /* View */ = {
 			isa = PBXGroup;
 			children = (
-				77671C9E1A80D8EC0023F7C9 /* LaunchScreen.xib */,
-				77671CA01A80D8EC0023F7C9 /* Main.storyboard */,
+				774BE2E91A80DF26005D73E5 /* LaunchScreen.xib */,
+				774BE2EB1A80DF26005D73E5 /* Main.storyboard */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -136,8 +136,8 @@
 		77DE5D3F1A7A86C80058559A /* Book */ = {
 			isa = PBXGroup;
 			children = (
-				77671CA91A80D90F0023F7C9 /* BookCover.h */,
-				77671CAA1A80D90F0023F7C9 /* BookCover.m */,
+				774BE2EF1A80DF30005D73E5 /* BookCover.h */,
+				774BE2F01A80DF30005D73E5 /* BookCover.m */,
 			);
 			name = Book;
 			sourceTree = "<group>";
@@ -145,8 +145,8 @@
 		77DE5D401A7A86E20058559A /* PageView */ = {
 			isa = PBXGroup;
 			children = (
-				77671CB21A80D9330023F7C9 /* PageViewController.h */,
-				77671CB31A80D9330023F7C9 /* PageViewController.m */,
+				774BE2F81A80DF59005D73E5 /* PageViewController.h */,
+				774BE2F91A80DF59005D73E5 /* PageViewController.m */,
 			);
 			name = PageView;
 			sourceTree = "<group>";
@@ -154,8 +154,8 @@
 		77DE5D411A7A87140058559A /* PageContent */ = {
 			isa = PBXGroup;
 			children = (
-				77671CAF1A80D92A0023F7C9 /* PageDataViewController.h */,
-				77671CB01A80D92A0023F7C9 /* PageDataViewController.m */,
+				774BE2F51A80DF4B005D73E5 /* PageDataViewController.h */,
+				774BE2F61A80DF4B005D73E5 /* PageDataViewController.m */,
 			);
 			name = PageContent;
 			sourceTree = "<group>";
@@ -163,8 +163,8 @@
 		77DE5D421A7A8C700058559A /* Books */ = {
 			isa = PBXGroup;
 			children = (
-				77671CAC1A80D91D0023F7C9 /* BooksController.h */,
-				77671CAD1A80D91D0023F7C9 /* BooksController.m */,
+				774BE2F21A80DF3A005D73E5 /* BooksController.h */,
+				774BE2F31A80DF3A005D73E5 /* BooksController.m */,
 			);
 			name = Books;
 			sourceTree = "<group>";
@@ -237,11 +237,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77671CA21A80D8EC0023F7C9 /* LaunchScreen.xib in Resources */,
-				77671CB81A80D9560023F7C9 /* Info.plist in Resources */,
-				77671C9D1A80D8D10023F7C9 /* Images.xcassets in Resources */,
+				774BE2ED1A80DF26005D73E5 /* LaunchScreen.xib in Resources */,
+				774BE2EE1A80DF26005D73E5 /* Main.storyboard in Resources */,
+				774BE2E11A80DEEC005D73E5 /* Info.plist in Resources */,
+				774BE2E31A80DEF4005D73E5 /* Images.xcassets in Resources */,
 				77671CB61A80D9410023F7C9 /* Default-568h@2x.png in Resources */,
-				77671CA31A80D8EC0023F7C9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,30 +252,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77671CA81A80D9000023F7C9 /* main.m in Sources */,
-				77671CB11A80D92A0023F7C9 /* PageDataViewController.m in Sources */,
-				77671CA61A80D8F80023F7C9 /* AppDelegate.m in Sources */,
-				77671CAB1A80D90F0023F7C9 /* BookCover.m in Sources */,
-				77671CAE1A80D91D0023F7C9 /* BooksController.m in Sources */,
-				77671CB41A80D9330023F7C9 /* PageViewController.m in Sources */,
+				774BE2E51A80DF02005D73E5 /* main.m in Sources */,
+				774BE2F71A80DF4B005D73E5 /* PageDataViewController.m in Sources */,
+				774BE2E81A80DF0B005D73E5 /* AppDelegate.m in Sources */,
+				774BE2F11A80DF30005D73E5 /* BookCover.m in Sources */,
+				774BE2F41A80DF3A005D73E5 /* BooksController.m in Sources */,
+				774BE2FA1A80DF59005D73E5 /* PageViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		77671C9E1A80D8EC0023F7C9 /* LaunchScreen.xib */ = {
+		774BE2E91A80DF26005D73E5 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				77671C9F1A80D8EC0023F7C9 /* Base */,
+				774BE2EA1A80DF26005D73E5 /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
-		77671CA01A80D8EC0023F7C9 /* Main.storyboard */ = {
+		774BE2EB1A80DF26005D73E5 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				77671CA11A80D8EC0023F7C9 /* Base */,
+				774BE2EC1A80DF26005D73E5 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -366,7 +366,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				INFOPLIST_FILE = "$(SRCROOT)/Sample/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/black_diamond/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "Black Diamond";
@@ -378,7 +378,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				INFOPLIST_FILE = "$(SRCROOT)/Sample/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/black_diamond/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "Black Diamond";
